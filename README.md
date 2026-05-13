@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                       -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,60:0d1f3c,100:000000&height=200&section=header&text=Aanya&fontSize=80&fontColor=e0aaff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00f5d4&animation=fadeIn&stroke=7b2fff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d1a,30:1a0533,60:0d1f3c,100:000000&amp;height=200&amp;section=header&amp;text=Aanya&amp;fontSize=80&amp;fontColor=e0aaff&amp;fontAlignY=38&amp;desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&amp;descAlignY=58&amp;descSize=18&amp;descColor=00f5d4&amp;animation=fadeIn&amp;stroke=7b2fff&amp;strokeWidth=1" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -53,7 +53,7 @@ const aanya = {
 <br/>
 
 **The short version:**
-I'm **Aanya** — an ECE undergrad at NSUT who fell in love with problem-solving and never looked back. My world sits at the intersection of **circuits and code**, where I build things, break things, and learn relentlessly. I believe the best engineers are the ones who never stop being students.
+I'm **Aanya** , an ECE undergrad at NSUT who fell in love with problem-solving and never looked back. My world sits at the intersection of **circuits and code**, where I build things, break things, and learn relentlessly. I believe the best engineers are the ones who never stop being students.
 
 <br clear="right"/>
 
@@ -139,7 +139,7 @@ I'm **Aanya** — an ECE undergrad at NSUT who fell in love with problem-solving
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aanya3012&show_icons=true&theme=radical&bg_color=0d0d1a&title_color=e0aaff&icon_color=00f5d4&text_color=c9d1d9&border_color=7b2fff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aanya3012&amp;show_icons=true&amp;theme=radical&amp;bg_color=0d0d1a&amp;title_color=e0aaff&amp;icon_color=00f5d4&amp;text_color=c9d1d9&amp;border_color=7b2fff&amp;border_radius=12&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aanya3012&theme=radical&background=0d0d1a&ring=7b2fff&fire=00f5d4&currStreakLabel=e0aaff&sideNums=e0aaff&sideLabels=c9d1d9&dates=888&border=7b2fff&border_radius=12" alt="Streak Stats" />
 
@@ -179,33 +179,6 @@ I'm **Aanya** — an ECE undergrad at NSUT who fell in love with problem-solving
 | 🛠️ **API Projects** | Express.js · REST · SQL | 🟡 In Progress |
 
 ---
-
-## `> cat roadmap.txt`
-
-```
-2025 ──────────────────────────────────────────────────────────────►
-
-  [✅] Master DSA — Arrays, Graphs, Trees, DP, Greedy
-  [✅] HTML · CSS · JavaScript Foundations
-  [✅] Git & GitHub Workflow
-  [🔄] React + Node.js Full Stack Projects
-  [🔄] REST API Design & Express.js
-  [🔄] SQL & MongoDB Databases
-  [🔄] ML Fundamentals & Python for Data Science
-  [⏳] System Design Fundamentals
-  [⏳] Deep Learning Basics — CNNs, Transformers
-  [⏳] Cloud Deployment (AWS / GCP Basics)
-  [⏳] Open Source Contributions
-  [⏳] Competitive Programming — Top 10% on LeetCode
-
-2026 ──────────────────────────────────────────────────────────────►
-
-  [🎯] Production-grade Full Stack Application
-  [🎯] Internship @ a high-growth tech company
-  [🎯] Meaningful ML Project in deployment
-  [🎯] Consistent open-source contributor
-```
-
 ---
 
 ## `> ./achievements --display`
@@ -217,9 +190,6 @@ I'm **Aanya** — an ECE undergrad at NSUT who fell in love with problem-solving
 </a>
 <a href="https://codeforces.com/profile/aanya3012">
   <img src="https://img.shields.io/badge/Codeforces-Competitive_Coder-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d1a" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/aanya3012">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Learner-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d1a" />
 </a>
 
 </div>
@@ -268,7 +238,7 @@ _If you've read this far — you're exactly the kind of person I want to know._ 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1f3c,70:1a0533,100:0d0d1a&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,40:0d1f3c,70:1a0533,100:0d0d1a&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 
 <div align="center">
   <sub>Crafted with 💜 discipline, curiosity &amp; a lot of late nights · NSUT Delhi · ECE</sub>
