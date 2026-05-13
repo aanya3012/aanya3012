@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,60:0d1f3c,100:000000&height=200&section=header&text=Aanya&fontSize=80&fontColor=e0aaff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00f5d4&animation=fadeIn&stroke=7b2fff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Aanya&fontSize=80&fontColor=e0aaff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00f5d4&animation=fadeIn&stroke=7b2fff&strokeWidth=1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=ECE+Student+%40+NSUT+Delhi+%F0%9F%8F%9B%EF%B8%8F;DSA+%7C+Full+Stack+%7C+AI%2FML+Explorer+%F0%9F%94%AD;Building+today%2C+shipping+tomorrow+%F0%9F%9A%80;Turning+curiosity+into+code+%E2%9C%A8;High-potential+engineer+in+the+making+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
@@ -119,11 +119,11 @@ I'm **Aanya** , an ECE undergrad at NSUT who fell in love with problem-solving a
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanya3012&show_icons=true&theme=radical&bg_color=0d0d1a&title_color=e0aaff&icon_color=00f5d4&text_color=c9d1d9&border_color=7b2fff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/aanya3012)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanya3012&show_icons=true&theme=radical&bg_color=0d0d1a&title_color=e0aaff&icon_color=00f5d4&text_color=c9d1d9&border_color=7b2fff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true)]
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aanya3012&theme=radical&background=0d0d1a&ring=7b2fff&fire=00f5d4&currStreakLabel=e0aaff&sideNums=e0aaff&sideLabels=c9d1d9&dates=888&border=7b2fff&border_radius=12)](https://github.com/aanya3012)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanya3012&layout=compact&theme=radical&bg_color=0d0d1a&title_color=e0aaff&text_color=c9d1d9&border_color=7b2fff&border_radius=12&langs_count=8)](https://github.com/aanya3012)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanya3012&layout=compact&theme=radical&bg_color=0d0d1a&title_color=e0aaff&text_color=c9d1d9&border_color=7b2fff&border_radius=12&langs_count=8)]
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aanya3012&bg_color=0d0d1a&color=e0aaff&line=7b2fff&point=00f5d4&area=true&area_color=7b2fff&hide_border=false&border_color=7b2fff&radius=12)](https://github.com/aanya3012)
 
