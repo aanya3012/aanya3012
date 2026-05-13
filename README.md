@@ -48,7 +48,7 @@ I'm **Aanya** , an ECE undergrad at NSUT who fell in love with problem-solving a
 | System Design Fundamentals | Full Stack Projects | Machine Learning Basics |
 | React Ecosystem | REST API Architecture | Neural Network Concepts |
 | Backend Patterns | MongoDB + SQL | Python for Data Science |
-| Open Source Contribution | Clean Code Practices | OS & Computer Networks |
+| Open Source Contribution | Clean Code Practices | OS and Computer Networks |
 
 </div>
 
@@ -207,5 +207,5 @@ _If you've read this far — you're exactly the kind of person I want to know._ 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1f3c,70:1a0533,100:0d0d1a&height=120&section=footer&animation=fadeIn)
 
 <div align="center">
-  <sub>Crafted with 💜 discipline, curiosity & a lot of late nights · NSUT Delhi · ECE</sub>
+  <sub>Crafted with 💜 discipline, curiosity &amp; a lot of late nights · NSUT Delhi · ECE</sub>
 </div>
