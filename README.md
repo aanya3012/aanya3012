@@ -4,11 +4,11 @@
 <!--                    ANIMATED HEADER BANNER                       -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,60:0d1f3c,100:000000&height=200&section=header&text=Aanya&fontSize=80&fontColor=e0aaff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00f5d4&animation=fadeIn&stroke=7b2fff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,60:0d1f3c,100:000000&ampheight=200&ampsection=header&amptext=Aanya&ampfontSize=80&ampfontColor=e0aaff&ampfontAlignY=38&ampdesc=Electronics%20%26%20Communication%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&ampdescAlignY=58&ampdescSize=18&ampdescColor=00f5d4&ampanimation=fadeIn&ampstroke=7b2fff&ampstrokeWidth=1" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=ECE+Student+%40+NSUT+Delhi+%F0%9F%8F%9B%EF%B8%8F;DSA+%7C+Full+Stack+%7C+AI%2FML+Explorer+%F0%9F%94%AD;Building+today%2C+shipping+tomorrow+%F0%9F%9A%80;Turning+curiosity+into+code+%E2%9C%A8;High-potential+engineer+in+the+making+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&ampampweight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=ECE+Student+%40+NSUT+Delhi+%F0%9F%8F%9B%EF%B8%8F;DSA+%7C+Full+Stack+%7C+AI%2FML+Explorer+%F0%9F%94%AD;Building+today%2C+shipping+tomorrow+%F0%9F%9A%80;Turning+curiosity+into+code+%E2%9C%A8;High-potential+engineer+in+the+making+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
