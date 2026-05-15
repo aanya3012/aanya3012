@@ -117,11 +117,9 @@ I'm **Aanya** , an ECE undergrad at NSUT who fell in love with problem-solving a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanya3012&show_icons=true&theme=radical&bg_color=0d0d1a&title_color=e0aaff&icon_color=00f5d4&text_color=c9d1d9&border_color=7b2fff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aanya3012&theme=radical&background=0d0d1a&ring=7b2fff&fire=00f5d4&currStreakLabel=e0aaff&sideNums=e0aaff&sideLabels=c9d1d9&dates=888&border=7b2fff&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanya3012&layout=compact&theme=radical&bg_color=0d0d1a&title_color=e0aaff&text_color=c9d1d9&border_color=7b2fff&border_radius=12&langs_count=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aanya3012&bg_color=0d0d1a&color=e0aaff&line=7b2fff&point=00f5d4&area=true&area_color=7b2fff&hide_border=false&border_color=7b2fff&radius=12)
 
